@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "Consolas, 'JetBrains Mono', monospace, Hack Nerd Font Mono",
+    "WisenTranslate.disableHover": false,
+    "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
+    "workbench.preferredHighContrastColorTheme": "Tomorrow Night Blue",
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+    "workbench.preferredLightColorTheme": "Default High Contrast Light",
+    "editor.fontSize": 15,
+    "window.autoDetectColorScheme": false,
+    "workbench.colorCustomizations": {},
+    "editor.tokenColorCustomizations": {},
+    "editor.semanticTokenColorCustomizations": {},
+    "themeswitch.toggleDefaultDark": true,
+    "themeswitch.priority": 0,
+    "workbench.iconTheme": "vscode-icons-mac",
+}
