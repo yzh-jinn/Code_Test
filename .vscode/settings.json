@@ -7,7 +7,6 @@
     "workbench.preferredHighContrastColorTheme": "Tomorrow Night Blue",
     "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
     "workbench.preferredLightColorTheme": "Default High Contrast Light",
-    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, Hack Nerd Font Mono",
     "editor.fontSize": 13,
     "workbench.colorCustomizations": {},
     "workbench.iconTheme": "material-icon-theme",
@@ -27,4 +26,5 @@
         "iostream": "cpp"
     },
     "cmake.configureOnOpen": false,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, Hack Nerd Font Mono",
 }
